@@ -3,27 +3,38 @@
 # Hi, I'm Diogo | D.A.M
 <br>
 
-## IDE
-<br>
-<div style="width:100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="45" height="45" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" align="left">
+## OS
+<div height="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" width="45" height="45" align="left"/>
 </div>
 <br>
 
+<hr>
+
+## IDE
+<div style="width:100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="45" height="45" align="left">
+</div>
+<br>
 <br>
 
-## Technologies
+***
+
+## Programming Languages
 <br>
 <div style="width:100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MonoGame_Logo.svg" width="45" height="45" aligh="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg" width="45" height="45" aligh="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="45" height="45" aligh="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" align="left"/>
-          
+</div>
+
+<hr>
+
+## Game Development
+<div>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/monogame/monogame-original.svg" width="45" height="45" aligh="left">
+</div>
   
 </div>
 
