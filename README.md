@@ -1,18 +1,34 @@
 # Hi, I'm Diogo | D.A.M
 
-<br>
-
-## OS: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" width="60" height="45" align="center">
+I am a Programmer and Game Developer
 
 <br>
 
-## IDE: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="60" height="50" align="center" >
+<h2 align="left">
+  OS:&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" width="50">
+</h2>
 
 <br>
 
-## Programming Languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="50" align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="45" height="50" align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="50" align="center">
+<h2 align="left">
+  IDE:&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50" >
+</h2>
 
 <br>
 
-## Game Development: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/monogame/monogame-original.svg" width="45" height="50" aligh="center">
+<h2 align="left">
+  Programming Languages:&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="50"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50">
+</h2>
+
+<br>
+
+<h2 align="left">
+  Programming Languages:&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/monogame/monogame-original.svg" width="50">
+</h2>
 
