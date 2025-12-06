@@ -3,7 +3,7 @@
 <br>
 
 <h3 align="left">
-  Operational System:&nbsp;&nbsp;
+  System:&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" width="30">
 </h3>
 
@@ -17,7 +17,7 @@
 <br>
 
 <h3 align="left">
-  Programming Languages:&nbsp;&nbsp;
+  Languages:&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="30"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30">
@@ -26,7 +26,7 @@
 <br>
 
 <h3 align="left">
-  Game Development:&nbsp;&nbsp;
+  Game Dev:&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/monogame/monogame-original.svg" width="30">
 </h3>
 
