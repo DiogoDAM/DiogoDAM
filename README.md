@@ -1,7 +1,5 @@
 # Hi, I'm Diogo | D.A.M
 
-I am a Programmer and Game Developer
-
 <br>
 
 <h3 align="left">
