@@ -8,7 +8,7 @@ I'm a Game Developer and student. I've creating games and small game engines wit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" width="30" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" width="30"/>          
 
-## Edtior
+## Editor
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="30" />
 
