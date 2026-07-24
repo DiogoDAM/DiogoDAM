@@ -1,6 +1,6 @@
 # Hi, I'm Diogo | D.A.M
 
-I'm a Game Developer and student. I've creating games and small game engines with Monogame for 3 years. I love the game engine development area and one day (the day that i'm no longer too lazy to learn OpenGL and CMAKE) i will create my own visual game engine, but for now Thales Engine is my current project.
+I'm a Game Developer and student. I've creating games and small game engines with Monogame
 
 ## Systems
 
